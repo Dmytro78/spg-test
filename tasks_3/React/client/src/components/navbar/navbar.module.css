@@ -1,0 +1,26 @@
+
+.homePage_h{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.homePage {
+  display: flex;
+  justify-content: center;
+}
+
+.homePage_btn{
+  margin: 15px;
+  padding: 15px;
+  border-radius: 75%;
+  cursor:pointer;
+
+}
+
+.homePage_btn:hover {
+  background-color: grey;
+  color: white;
+}
+
+
