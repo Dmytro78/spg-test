@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+  color: rgb(17, 14, 14);
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
